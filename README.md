@@ -4,7 +4,7 @@ ChessCulator, satranç maçlarındaki ELO değişimlerini FIDE standartlarına (
 
 ## Canlı Demo
 Projeyi indirmeden, doğrudan tarayıcı üzerinden test etmek için: 
-** (https://chessculator.netlify.app/)**
+https://chessculator.netlify.app/
 
 ## Özellikler
 - **Dinamik ELO Hesaplama:** FIDE standartlarına uygun (K: 10, 20, 40) olarak kazanma, kaybetme ve beraberlik durumlarına göre anlık ELO değişimi hesaplaması.
